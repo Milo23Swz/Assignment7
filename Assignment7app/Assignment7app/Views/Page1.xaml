@@ -4,9 +4,11 @@
              x:Class="Assignment7app.Views.Page1">
     <ContentPage.Content>
         <StackLayout BackgroundColor="Black">
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Label FontSize="Large"
+                TextColor="Gray"
+                Text="TAP SEARCH TO LOOK UP RHYMES"
+                VerticalOptions="StartAndExpand" 
+                HorizontalOptions="CenterAndExpand"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

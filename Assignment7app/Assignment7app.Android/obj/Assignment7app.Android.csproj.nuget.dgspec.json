@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj": {}
+    "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj": {}
   },
   "projects": {
-    "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj": {
+    "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj",
+        "projectUniqueName": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj",
         "projectName": "Assignment7app.Android",
-        "projectPath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj",
-        "packagesPath": "C:\\Users\\Emilio Swartz\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.Android\\obj\\",
+        "projectPath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.Android\\Assignment7app.Android.csproj",
+        "packagesPath": "C:\\Users\\Swartz\\.nuget\\packages\\",
+        "outputPath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Emilio Swartz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Swartz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\Assignment7app.csproj": {
-                "projectPath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\Assignment7app.csproj"
+              "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\Assignment7app.csproj": {
+                "projectPath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\Assignment7app.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\Assignment7app.csproj": {
+    "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\Assignment7app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\Assignment7app.csproj",
+        "projectUniqueName": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\Assignment7app.csproj",
         "projectName": "Assignment7app",
-        "projectPath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\Assignment7app.csproj",
-        "packagesPath": "C:\\Users\\Emilio Swartz\\.nuget\\packages\\",
-        "outputPath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app\\obj\\",
+        "projectPath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\Assignment7app.csproj",
+        "packagesPath": "C:\\Users\\Swartz\\.nuget\\packages\\",
+        "outputPath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\Emilio Swartz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Swartz\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

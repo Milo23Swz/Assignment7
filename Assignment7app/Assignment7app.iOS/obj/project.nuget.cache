@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LhQs+d2vfKAVYfDnMKB7JtkA6Q9Xyo+u/PV5PlnR3UMt8/nguuYIQ5i6CBx4P+RXT/sKmvXbmcIkje6E826aww==",
+  "dgSpecHash": "GPQlPMZmM/kwk8V/qFEJjcabDngumR46k4TFZvZkjK4pqiYUw70Xt4xgXUPL9oPQlN/TB3qGz/fhnd6TVBMmTg==",
   "success": true,
-  "projectFilePath": "C:\\Xamarin\\Assignment7app\\Assignment7app\\Assignment7app.iOS\\Assignment7app.iOS.csproj",
+  "projectFilePath": "C:\\xamarin\\Repo\\Assignment7\\Assignment7app\\Assignment7app.iOS\\Assignment7app.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
